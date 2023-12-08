@@ -3,6 +3,9 @@
 html {
     background-color: rgba(0, 0, 114, 0.315);
 }
+body {
+    overflow-y: hidden;
+}
 .main {
     width: 50%;
     margin-left: 25%;
